@@ -50,7 +50,7 @@ const portfolios = [
         id: 6,
         category: 'React JS',
         image: react1,
-        link1: 'https://www.google.com',
+        link1: 'https://github.com/puneetGupts/portfolio-me',
         title: 'Responsive Portfolio Website',
         text: 'Created using different technologies such as Material UI, Styled-Components and more...'
     },
